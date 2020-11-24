@@ -1,1 +1,2 @@
 Ini file 6 di branch_1
+Ini diedit setelah rebase
